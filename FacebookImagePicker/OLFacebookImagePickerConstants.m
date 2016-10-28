@@ -9,5 +9,5 @@
 #import "OLFacebookImagePickerConstants.h"
 
 NSString *const kOLErrorDomainFacebookImagePicker = @"co.oceanlabs.FacebookImagePicker.kOLErrorDomainFacebookImagePicker";
-const NSInteger kOLErrorCodeFacebookImagePickerBadResponse = 99;
-const NSInteger kOLErrorCodeFacebookImagePickerNoOpenSession = 100;
+NSInteger const kOLErrorCodeFacebookImagePickerBadResponse = 99;
+NSInteger const kOLErrorCodeFacebookImagePickerNoOpenSession = 100;
